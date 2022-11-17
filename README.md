@@ -2,8 +2,6 @@
 
 ## ollaaaaaaaaa
 
-
-
 # WOOOO
 
 ### SSSSSSSS
@@ -34,15 +32,11 @@ Teste bla bla bla
 
 - oluuu
 
-
-
 ```markdown
 - George Washington
 - John Adams
 - Thomas Jefferson
 ```
-
-
 
 ***SFSDF***
 
@@ -50,16 +44,13 @@ Teste bla bla bla
 
 **FDSFSDFSF**
 
-
-
-
-
 | AAAA    | BBBB    | CCCC      | DDDDD     |
 |:-------:|:-------:|:---------:|:---------:|
 | 1111    | 2222333 | fsdfdf    | sdfdsfsdf |
 | sfsfdsf | dfdsf   | dsfdsfdsf | dsfdsf    |
-
-
+| dgfdg   | fdgfg   | fdgfdg    | fdgfd     |
+| fdgfd   | fdgfdg  | fdgfdg    | gfdgfdg   |
+| gfdgg   | fdgfgd  | gfdfd     | gfdg      |
 
 - [ ] dsaadad
 
